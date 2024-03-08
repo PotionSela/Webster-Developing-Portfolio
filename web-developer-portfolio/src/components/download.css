@@ -1,0 +1,21 @@
+/* Btn color and styling */
+.btn {
+    width: 250px;
+    height: 50px;
+    background-color: #976daf;
+    margin: auto;
+    border-radius: 5px;
+    border-color: #33083b;
+    font-size: 15px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    font-style: normal;
+  }
+
+/* Btn hover coloring */
+  .btn:hover {
+    background-color: #6ca6db;
+    color: #153270;
+    border: #0d083b 3px;
+  }
