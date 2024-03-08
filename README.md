@@ -13,3 +13,6 @@ This is a comprehensive showcase of a developer's projects, built using React an
 - [License](#license)
 - [Questions](#questions)
 
+
+## Description
+A description will go here!
