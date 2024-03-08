@@ -1,0 +1,37 @@
+/* Styling for the main footer container */
+.footer {
+    background-color: #4d1ac4;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: solid #501d1d 5px;
+  }
+  
+  /* Styling for social media logos */
+  .socialLogo {
+    height: 35px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+  /* Styling for the container of social media logos */
+  .socialContainer {
+    position: relative; /* Helps the parent container positioned correctly */
+    display: inline-block; /* Container holds around the images */
+  }
+  
+  /* Styling for the hover effect on social media logos */
+  .socialLogo.hover {
+    display: none; /* Hide the second image by default */
+  }
+  
+  /* Styling for hover effect on the container to show alternative image */
+  .socialContainer:hover .socialLogo.normal {
+    display: none; /* Hide the first image when hovering over the container */
+  }
+  
+  /* Styling for hover effect on the container to show alternative image */
+  .socialContainer:hover .socialLogo.hover {
+    display: block; /* Display the second image when hovering over the container */
+  }
