@@ -46,3 +46,11 @@ The features of this application will go here!
 
 ## Contribution Guidelines
 If you want to contribute to this application, fork the repo to start your own journey with this application.
+
+
+## License
+A section for the license will go here!
+
+
+## Questions
+If you have questions for the creator, you can contact me [here through my GitHub account!](https://github.com/PotionSela) or email me at giselamata27@gmail.com.
