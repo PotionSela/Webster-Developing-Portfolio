@@ -1,6 +1,6 @@
 import Download from "../Download";
 
-import "./resume.css"
+import "../../styles/resume.css"
 
 export default function Resume() {
   return (
