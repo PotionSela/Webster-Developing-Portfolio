@@ -14,11 +14,9 @@ export default function Resume() {
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
-            <li>JQuery</li>
             <li>React</li>
             <li>Bootstrap</li>
             <li>Bulma</li>
-            <li>Blazor</li>
           </ul>
         </div>
         <div className="backend col-md-6 col-sm-12 text-center">

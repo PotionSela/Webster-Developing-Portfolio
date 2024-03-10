@@ -1,10 +1,10 @@
 import "./footer.css";
-import githubMark from "../../assets/github-mAudioWorklet.png";
-import githubMarkWhite from "../../assets/github-mark-white.png";
-import linkedInlogo from "../../assets/LinkedIn-logo.png";
-import linkedInlogoWhite from "../../assets/LinkedIn-logo2.png";
-import stackOverflowLogo from "../../assets/StackOverflow1.png";
-import stackOverflowWhite from "../../assets/StackOverflowWhite1.png";
+import githubMark from "../assets/github-mAudioWorklet.png";
+import githubMarkWhite from "../assets/github-mark-white.png";
+import linkedInlogo from "../assets/LinkedIn-logo.png";
+import linkedInlogoWhite from "../assets/LinkedIn-logo2.png";
+import stackOverflowLogo from "../assets/StackOverflow1.png";
+import stackOverflowWhite from "../assets/StackOverflowWhite1.png";
 
 export default function Footer() {
   return (
