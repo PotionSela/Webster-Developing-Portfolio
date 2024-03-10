@@ -1,4 +1,4 @@
-import "./download.css";
+import "../styles/download.css"
 import resume from "../assets/resume1.png";
 import resume2 from "../assets/resume2.png";
 

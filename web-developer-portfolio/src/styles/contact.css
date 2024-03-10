@@ -1,0 +1,66 @@
+.title {
+    padding-bottom: 40px;
+    padding-top: 30px;
+  }
+  
+  .form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .form input {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    border-radius: 3px;
+    border-color: #212529;
+  }
+  
+  .inlineInput {
+    height: 40px;
+  }
+  
+  .blockInput {
+    height: 200px;
+  }
+  
+  .label {
+    font-size: 1.5rem;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .form button {
+    width: 98%;
+    height: 40px;
+    background-color: #219ebc;
+    margin: 20px auto;
+    border-radius: 3px;
+    border-color: #212529;
+    font-size: 24px;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .form button:hover {
+    color: white;
+    border: #212529 solid 3px;
+  }
+  
+  .error-text {
+    text-align: center;
+    color: red;
+  }
+  
+  
+  @media screen and (max-width: 890px) {
+    .label {
+      font-size: 1.25rem;
+    }
+  }

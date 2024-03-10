@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import "./project.css";
+import "../styles/project.css"
 import githublogoWhite from '../assets/GitHub_Logo_White.png'
 
 export default function Project(props) {
