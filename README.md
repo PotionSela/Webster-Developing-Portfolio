@@ -14,12 +14,14 @@ Web-Developing-Portfolio is a comprehensive showcase of a developer's projects, 
 - [Questions](#questions)
 
 ## Description
-A description will go here!
+The Web-Developing-Portfolio is a React-based application designed to serve as a comprehensive showcase of a developer's projects. It allows employers, and fellow developers, to assess the developer's proficiency in web development by providing a seamless browsing experience and showcasing various projects in a structured manner.
 
 
 ## Screenshots of application
-![example-1](./example-goes-here)
-![example-2](./example-goes-here)
+![HomePage](./public/images/Portfolio1.png)
+![Portfolio](./public/images/Portfolio2.png)
+![Contact](./public/images/Portfolio3.png)
+![Resume](./public/images/Portfolio4.png)
 
 
 ## Live Link
@@ -27,7 +29,12 @@ A link of the live site will be placed [here!](https://example.com)
 
 
 ## Technologies Used
-Here will be a list of the technologies used to power this application. It will employ X for the application.
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- React
+- Npm
 
 
 ## Installation
@@ -40,7 +47,7 @@ If you want to clone the repo and have this application on your local machine, y
 
 
 ## Features
-The features of this application will go here!
+In this project you will find I used HTML, CSS, and Bootstrap for styling the webpage, I used JavaScript and React for functionality of the site. I have a spot in this site so that anyone can send me their contact information, and any future employers can download the front and back sides of my resume. 
 
 
 ## Contribution Guidelines
