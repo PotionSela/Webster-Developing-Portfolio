@@ -7,7 +7,7 @@
   }
   
   .nav-link {
-    color: #d8dbe2;
+    color: #0D160B;
     font-size: 1.5rem;
     text-decoration: none;
     font-weight: 400;
@@ -16,11 +16,11 @@
   }
   
   .nav-link:hover {
-    color: #219ebc;
+    color: #741d8f;
   }
   
   .active {
-    background-color: #219ebc !important;
+    background-color: #92B9BD !important;
     color: black !important;
     font-weight: bold;
   }

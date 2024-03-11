@@ -1,15 +1,17 @@
 .card {
     display: inline-block;
-    border: 2px solid black;
+    border: 2px solid #000000;
     border-radius: 20px;
     box-shadow: 3px 3px 5px gray;
     padding: 20px;
     margin-bottom: 20px;
     text-align: center;
+    color: #92B9BD;
+    background-color: #0D160B;
   }
   
   h3 {
-    color: #219ebc;
+    color: #741d8f;
     font-family: "Francois One", sans-serif;
     font-weight: 600;
     font-style: normal;
@@ -20,7 +22,7 @@
   }
   
   .card:hover {
-    border: 5px solid #219ebc;
+    border: 5px solid #5C5D8D;
   }
   
   .projectImage {

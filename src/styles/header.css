@@ -1,15 +1,15 @@
 .header {
-    background-color: #360d52;
+    background-color: #654F6F;
     height: 6rem;
     display: flex;
     align-items: center;
-    border-bottom: solid #8321bc 5px;
+    border-bottom: solid #5C5D8D 5px;
     justify-content: space-between;
   }
   
   .headerText {
     font-size: 4rem;
-    color: #7a9ceb;
+    color: #0D160B;
     padding-left: 20px;
     font-weight: bolder;
     margin-left: 20px;
