@@ -18,9 +18,13 @@ The Web-Developing-Portfolio is a React-based application designed to serve as a
 
 
 ## Screenshots of application
+### Home Page
 ![HomePage](./public/images/Portfolio1.png)
+### My Portfolio
 ![Portfolio](./public/images/Portfolio2.png)
+### Contact Page
 ![Contact](./public/images/Portfolio3.png)
+### My Resumes
 ![Resume](./public/images/Portfolio4.png)
 
 
