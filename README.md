@@ -29,7 +29,7 @@ The Web-Developing-Portfolio is a React-based application designed to serve as a
 
 
 ## Live Link
-A link of the live site will be placed [here!](https://example.com)
+A link of the live site will be placed [here!](https://65f468d91891b5117fcf9b08--potionsela.netlify.app/)
 
 
 ## Technologies Used
